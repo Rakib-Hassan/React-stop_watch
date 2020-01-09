@@ -1,0 +1,14 @@
+.titles .edit_icon{
+    opacity: 0;
+    margin-left: 50px;
+    transform: all 0.5s;
+    cursor: pointer;
+}
+.titles:hover .edit_icon{
+    opacity: 1;
+    
+}
+.Title .form-control{
+    height: 65px;
+    font-size: 32px;
+}

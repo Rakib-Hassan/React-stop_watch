@@ -1,0 +1,12 @@
+.Digit{
+    height: 173px;
+    width: 173px;
+    border: 2px solid red;
+    border-radius: 50%;
+}
+.digit_mi {
+    margin: 0 auto;
+    padding: 57px;
+    font-size: 82px;
+    margin-top: 26px;
+}
